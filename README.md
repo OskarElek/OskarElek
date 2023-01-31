@@ -1,4 +1,4 @@
-![deposit_sigma=0 25](https://user-images.githubusercontent.com/26778894/215627651-2fb9b5c6-47c3-49f0-bcad-15370a473275.png)
+![deposit_sigma=0 50_captioned](https://user-images.githubusercontent.com/26778894/215649171-e56ce04f-5934-4f9f-992c-6f8bb1a87fa9.jpg)
 
 👋 Hi! I’m @OskarElek...</br>
 💞️ ...curious about [nature-inspired computing](https://elek.pub/research.html), [scientific visualization](https://elek.pub/research.html), and [creative coding](https://elek.pub/creative.html)</br>
